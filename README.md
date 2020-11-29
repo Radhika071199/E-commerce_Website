@@ -1,2 +1,2 @@
 # E-commerce_Website
-e-commerec website by using Python-Django.
+e-commerce website by using Python-Django.
